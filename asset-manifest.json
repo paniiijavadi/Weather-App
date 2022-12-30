@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.d84d611d.css",
+    "main.js": "/Weather-App/static/js/main.8bad407e.js",
+    "static/media/dominik-schroder-FIKD9t5_5zQ-unsplash.jpg": "/Weather-App/static/media/dominik-schroder-FIKD9t5_5zQ-unsplash.456543987cd7309cc1fc.jpg",
+    "static/media/fontello.eot?12556246": "/Weather-App/static/media/fontello.b1d56814f73b007e65ff.eot",
+    "static/media/fontello.ttf?12556246": "/Weather-App/static/media/fontello.927537d6cd38ac2baf4a.ttf",
+    "static/media/fontello.woff?12556246": "/Weather-App/static/media/fontello.9219a6173fd3c363ea61.woff",
+    "static/media/fontello.woff2?12556246": "/Weather-App/static/media/fontello.2dd37d3dc9fb22aaef29.woff2",
+    "index.html": "/Weather-App/index.html",
+    "static/media/fontello.svg?12556246": "/Weather-App/static/media/fontello.bd0c668b07d2e7ad3f4c.svg",
+    "main.d84d611d.css.map": "/Weather-App/static/css/main.d84d611d.css.map",
+    "main.8bad407e.js.map": "/Weather-App/static/js/main.8bad407e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d84d611d.css",
+    "static/js/main.8bad407e.js"
+  ]
+}
